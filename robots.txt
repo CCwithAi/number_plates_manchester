@@ -1,0 +1,3 @@
+Sitemap: https://ccwithai.github.io/number_plates_manchester/sitemap.xml
+User-agent:*
+Disallow:
